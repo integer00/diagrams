@@ -1,0 +1,46 @@
+<mxfile host="app.diagrams.net" modified="2023-07-15T11:58:02.188Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="WcuFhAP43eJS9mLOO0Cv" version="21.6.2" type="github">
+  <diagram name="Page-1" id="Am2LJb5aJQRjsUZjBQBN">
+    <mxGraphModel dx="1114" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="q9BPsh-HXrNiZBPe5cC2-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="180" width="20" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q9BPsh-HXrNiZBPe5cC2-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.75;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="q9BPsh-HXrNiZBPe5cC2-1" target="q9BPsh-HXrNiZBPe5cC2-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q9BPsh-HXrNiZBPe5cC2-9" value="authenticate" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="80" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q9BPsh-HXrNiZBPe5cC2-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="q9BPsh-HXrNiZBPe5cC2-10" target="q9BPsh-HXrNiZBPe5cC2-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q9BPsh-HXrNiZBPe5cC2-10" value="mobile app" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="140" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q9BPsh-HXrNiZBPe5cC2-12" value="scooter" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="255" y="120" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q9BPsh-HXrNiZBPe5cC2-13" value="backend" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="265" y="40" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q9BPsh-HXrNiZBPe5cC2-14" value="external&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="230" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q9BPsh-HXrNiZBPe5cC2-15" value="payment processor" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="270" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q9BPsh-HXrNiZBPe5cC2-16" value="push gateway" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="320" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q9BPsh-HXrNiZBPe5cC2-17" value="sms gateway" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="370" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q9BPsh-HXrNiZBPe5cC2-20" value="e-mail gateway" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="420" width="120" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
